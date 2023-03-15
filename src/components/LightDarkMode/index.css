@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #ffffff;
+
+  height: 100vh;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  margin-top: 110px;
+  height: 40vh;
+  width: 50vw;
+  border-radius: 9px;
+}
+
+.light-mode {
+  background-color: #ffffff;
+  border-style: solid;
+  font-family: Roboto;
+}
+.dark-mode {
+  background-color: #000000;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: roboto;
+  text-align: center;
+}
+
+.heading-light-mode {
+  color: #000000;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.heading-dark-mode {
+  color: #ffffff;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.button-cont {
+  text-align: center;
+}
+
+.button {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: roboto;
+  height: 6vh;
+  width: 9vw;
+  border-radius: 7px;
+  cursor: pointer;
+}
